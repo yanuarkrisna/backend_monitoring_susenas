@@ -1,0 +1,64 @@
+username;password_hash;nama_lengkap;role;id;aktif
+gumri;gumri;Gumri;PCL;00366;TRUE
+nuraini;nuraini;Nuraini;PCL;20001;TRUE
+adilah;adilah;Adilah Amrin;PCL;20004;TRUE
+ainun;ainun;Ainun Ramadani;PCL;00058;TRUE
+aisyah;aisyah;Aisyah Ridwan;PCL;30041;TRUE
+alfrida;alfrida;Alfrida Simus;PCL;50007;TRUE
+arif;arif;Arif;PCL;00379;TRUE
+asriyanti;asriyanti;Asriyanti;PCL;10030;TRUE
+besse;besse;Besse Helmi M;PCL;00088;TRUE
+deby;deby;Deby Janet;PCL;30030;TRUE
+duwi;duwi;Duwi Noviyanti;PCL;30001;TRUE
+ela;ela;Ela Sari Ayu;PCL;00285;TRUE
+ervia;ervia;Ervia;PCL;00352;TRUE
+fahril;fahril;Fahril;PCL;00166;TRUE
+hadriani;hadriani;Hadriani;PCL;00233;TRUE
+haramaeni;haramaeni;Haramaeni;PCL;00177;TRUE
+hardiyanti;hardiyanti;Hardiyanti;PCL;00036;TRUE
+hervian;hervian;Hervian Septiandi Amir;PCL;50006;TRUE
+imrana;imrana;Imrana;PCL;50040;TRUE
+ira;ira;Ira Rukmana;PCL;30016;TRUE
+irwan;irwan;Irwan;PCL;20026;TRUE
+lailatul;lailatul;Lailatul Nikmah;PCL;30069;TRUE
+mawarni;mawarni;Mawarni;PCL;30034;TRUE
+ikbal;ikbal;Muh Ikbal;PCL;00099;TRUE
+muksin;muksin;Muksin Masse;PCL;00053;TRUE
+musakkar;musakkar;Musakkar;PCL;00240;TRUE
+musda;musda;Musda Mulia;PCL;00090;TRUE
+nikeanse;nikeanse;Nikeanse;PCL;50008;TRUE
+novia;novia;Novia Basriadi;PCL;40024;TRUE
+novitasari;novitasari;Novitasari;PCL;00143;TRUE
+nurhalia;nurhalia;Nurhalia;PCL;30002;TRUE
+nurhikma;nurhikma;Nurhikma Ilham;PCL;60031;TRUE
+nurmayanti;nurmayanti;Nurmayanti Masri;PCL;40021;TRUE
+nurul;nurul;Nurul Feliani Mattola;PCL;50013;TRUE
+rexy;rexy;Rexy Wahyu Ramadhan;PCL;20039;TRUE
+rila;rila;Rila Selfia Pana;PCL;30043;TRUE
+rini;rini;Rini Dwi Kurniati Tory;PCL;10144;TRUE
+sarah;sarah;Sarah;PCL;30033;TRUE
+suci;suci;Suci Amalia Jumade;PCL;40018;TRUE
+warni;warni;Warni;PCL;90063;TRUE
+yayu;yayu;Yayu Indrayani;PCL;90081;TRUE
+yoi;yoi;Yoi Rabbana;PCL;30015;TRUE
+hariati;hariati;Hariati Karim;PML;50010;TRUE
+marhati;marhati;Marhati;PML;50005;TRUE
+husain;husain;Muhammad Husain;PML;00155;TRUE
+yasni;yasni;Yasni;PML;30039;TRUE
+dinapurnama;dinapurnama;Dina Purnamasari;PML;58686;TRUE
+mahen.fiqih;mahen.fiqih;Fiqih Tri Mahendra;PML;60646;TRUE
+krisna.pamuja;krisna.pamuja;Yanuar Krisna Pamuja;PML;60959;TRUE
+mizar;mizar;Mizar;PML;55464;TRUE
+husnaini;husnaini;Husnaini;PML;63847;TRUE
+saehal;saehal;Saehal Fanchai Barahima;PML;61516;TRUE
+naafi;naafi;Firda Lailatun Naafi;PML;63456;TRUE
+ridwan;ridwan;Ridwan;PML;16688;TRUE
+nashif;nashif;Nashif Satria Ramadhan;PML;63380;TRUE
+fadli.lantera;fadli.lantera;Fadli Lantera;PML;56591;TRUE
+izzaannisa;izzaannisa;Izza Annisa Ramadhani;PML;62169;TRUE
+alfada.firdani;alfada.firdani;Alfada Maghfiri Firdani;PML;58758;TRUE
+andi.fabiola;andi.fabiola;Andi Fabiola Awalet;PML;59294;TRUE
+chaula;chaula;Chaula Ramadhani Putri;PML;61722;TRUE
+sintyadwil;sintyadwil;Sintya Dwi Lestari;PML;62056;TRUE
+nurjannah.jabar;nurjannah.jabar;Nurjannah Jabar;PML;61466;TRUE
+muhammad;muhammad;Muhammad Ilyas;PML;56176;TRUE

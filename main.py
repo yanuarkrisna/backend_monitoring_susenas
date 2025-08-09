@@ -1,19 +1,24 @@
 from flask import Flask
-from flask_migrate import Migrate
-from config import DATABASE_URI
+from flask_jwt_extended import JWTManager
+from config import DATABASE_URI, JWT_SECRET_KEY
 from db import db
-import model  # pastikan model di-import supaya terdaftar di SQLAlchemy
+from routes.auth import auth_bp
+from routes.dsrt import dsrt_bp
+from routes.isian import isian_bp
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URI
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['JWT_SECRET_KEY'] = JWT_SECRET_KEY
 
 db.init_app(app)
-migrate = Migrate(app, db)  # <-- tambahkan ini
+jwt = JWTManager(app)
 
-@app.route('/')
-def home():
-    return "Backend Monitoring SUSENAS aktif!"
+# register blueprint
+app.register_blueprint(auth_bp)
+app.register_blueprint(dsrt_bp)
+app.register_blueprint(isian_bp)
 
 if __name__ == '__main__':
     app.run(debug=True)
+

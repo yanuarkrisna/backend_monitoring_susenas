@@ -1,2 +1,9 @@
-# config.py
-DATABASE_URI = 'postgresql://postgres:luwu7317@localhost:5432/monitoring_susenas'
+import os
+from dotenv import load_dotenv
+
+# Load .env
+load_dotenv()
+
+DATABASE_URI = os.getenv("DATABASE_URI")
+JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY")
+
