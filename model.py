@@ -49,7 +49,7 @@ class Dsrt(db.Model):
     tahun = db.Column(db.Integer)
     petugas_id = db.Column(db.Integer, db.ForeignKey('users.id'))
     kode_bs = db.Column(db.String(15), db.ForeignKey('blok_sensus.kode_bs'))
-    nks = db.Column(db.String(6), db.ForeignKey('blok_sensus.nks'))
+    nks = db.Column(db.String(6))
     no_urut = db.Column(db.Integer)
 
 class IsianDsrt(db.Model):
